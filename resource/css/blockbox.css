@@ -1,0 +1,7 @@
+.blockUI .box {
+    margin: 0;
+    left: -230px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}

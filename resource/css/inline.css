@@ -1,0 +1,26 @@
+body {
+    overflow-y: scroll!important;
+    overflow-y: auto;
+}
+
+.box .content ul.user li:first-child {
+    padding: 0 0 12px;
+    margin: -3px 0 0;
+}
+
+.box .content ul.user li:last-child {
+    padding: 12px 0 0;
+    background-image: none;
+    margin: 0 0 -5px;
+}
+
+.box .pages table td:first-child {
+    padding: 0 8px 0 6px;
+    width: 13px;
+}
+
+.box .pages table td:last-child {
+    border-right: none;
+    text-align: center;
+    padding: 4px 20px 0
+}
